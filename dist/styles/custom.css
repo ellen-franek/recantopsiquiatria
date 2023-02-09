@@ -1,0 +1,16 @@
+.buttons-fixed .flex {
+    justify-content: center;
+}
+
+.image-tratamentos {
+    width: 95%;
+}
+@media(min-width: 769px) {
+    .image-tratamentos {
+        width: 40%;
+    }
+}
+
+.nav-header {
+    z-index: 1000;
+}
